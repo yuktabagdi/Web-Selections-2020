@@ -12,7 +12,7 @@ For the next round of the selection process, you are required to complete (atlea
 Note: General Programming Problems can be done in any programming language of your choice, but Javascript is preferred. 
 
 # Submission Format
--> We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in a github repository and share the link to the studentsalumnicell.iitkgp@gmail.com with Subject "Submission_Web_Team_/*Name*/_/*Roll number*/" (or Google Drive folders).
+-> We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in respective github repositories and share the links to the studentsalumnicell.iitkgp@gmail.com with Subject "Submission_Web_Team_/*Name*/_/*Roll number*/" (or Google Drive folders in the other case).
 
 All the very Best! 
    
