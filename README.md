@@ -1,5 +1,5 @@
 # Web Selections 2020
-Greetings from Student's Alumni Cell! 
+Greetings from Students' Alumni Cell! 
 
 For the next round of the selection process, you are required to complete (atleast) 3 of the following tasks:
 
