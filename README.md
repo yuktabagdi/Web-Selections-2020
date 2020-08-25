@@ -9,7 +9,7 @@ You are required to complete (minimum) 3 from the following tasks:
 4. Document Object Model: Create a Webpage with a form, taking any two fields (say a movie and it's IMDB rating), and a Table below it, with these two as fields. On clicking the submit button, your Javascript program should edit the inner HTML of the row elements, to be those submitted values. 
 5. Create a sign up form using NodeJS and MySQL. After a successful sign up, add an alert for the successful execution as "Congratulations /*Name*/, You are registered!". Be sure to use Restful APIs only.
 
-Note: General Programming Problems can be done in any programming language of your choice; Javascript is preferred. 
+Note: General Programming Problems can be done in any programming language of your choice, but Javascript is preferred. 
 
 All the very Best! 
    
