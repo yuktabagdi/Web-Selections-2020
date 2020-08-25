@@ -1,7 +1,7 @@
 # Web Selections 2020
 Greetings from Student's Alumni Cell! 
 
-You are required to complete (minimum) 3 from the following tasks:
+For the next round of the selection process, you are required to complete (atleast) 3 of the following tasks:
 
 1. Cloning of the Instagram/Facebook Profile Webpage (Desktop Version) using HTML and CSS [Front-end frameworks of personal preference can be used]
 2. General Programming skills I: Write a program to input a string, and confirm if it is a Palindrome or Not 
@@ -10,6 +10,9 @@ You are required to complete (minimum) 3 from the following tasks:
 5. Create a sign up form using NodeJS and MySQL/PostgreSQL/MongoDB. After a successful sign up, add an alert for the successful execution as "Congratulations /*Name*/, You are registered!". Be sure to use Restful APIs only.
 
 Note: General Programming Problems can be done in any programming language of your choice, but Javascript is preferred. 
+
+# Submission Format
+-> We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in a github repository and share the link to the studentsalumnicell.iitkgp@gmail.com with Subject "Submission_Web_Team_/*Name*/_/*Roll number*/" (or Google Drive folders).
 
 All the very Best! 
    
