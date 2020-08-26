@@ -9,7 +9,7 @@ For the next round of the selection process, you are required to complete (atlea
 4. Document Object Model: Create a Webpage with a form, taking any two fields (say a movie and it's IMDB rating), and a Table below it, with these two as fields. On clicking the submit button, your Javascript program should edit the inner HTML of the next row elements, to be those submitted values. 
 5. Create a sign up form using NodeJS and MySQL/PostgreSQL/MongoDB. After a successful sign up, add an alert for the successful execution as "Congratulations /*Name*/, You are registered!". Be sure to use Restful APIs only.
 
-Note: General Programming Problems can be done in any programming language of your choice, but Javascript is preferred. 
+Note: General Programming Problems can be done in any programming language of your choice, but Javascript is preferred. For cloning task Front-end frameworks like Bootstrap can be used. 
 
 # Submission Format
 -> We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in respective github repositories and share the links to the studentsalumnicell.iitkgp@gmail.com with Subject "Submission_Web_Team_/*Name*/_/*Roll number*/" 
